@@ -24,4 +24,4 @@ $ python3 fuzz.py
 
 It will pop a help menu:
 
-[sshot.png](https://postimg.cc/d7b4W29s)
+[![sshot.png](https://i.postimg.cc/k44zgw6b/sshot.png)](https://postimg.cc/d7b4W29s)
