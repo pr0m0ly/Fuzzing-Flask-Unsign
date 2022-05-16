@@ -25,3 +25,5 @@ $ python3 fuzz.py
 It will pop a help menu:
 
 [![help.png](https://i.postimg.cc/DZPrRKyQ/help.png)](https://postimg.cc/47nHhqcn)
+
+[![ex.gif](https://imgur.com/a/E92YFNE)](https://imgur.com/a/E92YFNE)
