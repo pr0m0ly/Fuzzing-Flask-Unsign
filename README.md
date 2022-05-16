@@ -23,3 +23,5 @@ $ python3 fuzz.py
 ```
 
 It will pop a help menu:
+
+[sshot.png](https://postimg.cc/d7b4W29s)
